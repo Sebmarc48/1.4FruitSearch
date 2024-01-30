@@ -1,0 +1,58 @@
+html{
+  background: linear-gradient(to left,rgb(240, 124, 0), rgb(246, 202, 7));
+}
+
+* {
+  /* box-sizing: border-box; */
+}
+
+:focus {
+ /* TODO */
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  margin: 0;     
+}
+.suggestions li:hover{
+  background-color: rgb(53, 49, 35);
+}
+input {
+ /* TODO */
+}
+
+.search-container {
+ /* TODO */
+
+ text-align: center;
+}
+.search-container input,
+.search-container .suggestions {
+  /* TODO */
+}
+.search-container input {
+ /* TODO */
+}
+.search-container .suggestions {
+   /* TODO */
+}
+
+ul {
+  /* TODO */
+}
+ul.has-suggestions {
+  /* TODO */
+}
+ul li {
+  /* TODO */
+}
+ul li:hover {
+  /* TODO */
+}
+
+input {
+   /* TODO */
+}
